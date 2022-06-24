@@ -1,0 +1,16 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Quote REST API",
+  "main": "quote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nelson Guya",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Rest-API"
+  }
+}
